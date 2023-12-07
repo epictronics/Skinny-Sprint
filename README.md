@@ -5,4 +5,5 @@ The main difference from the PC-Sprint is that the Skinny Sprint will also fit o
 This version is tested on the 5150, 5160 and the PCjr so far. The list will be updated as I test it in other 8088 machines.
 Feel free to send me an email if you have sucessfully tested the skinny sprint on systems not mentioned here epictronicsyt@gmail.com
 
-https://studio.youtube.com/video/sXqYadm3b40/analytics/tab-overview/period-default
+Testing the Skinny Sprint in the PCjr here:
+https://youtu.be/sXqYadm3b40?si=LHwJ-bdCwG3xpMaf
